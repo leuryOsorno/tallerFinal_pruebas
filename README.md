@@ -1,4 +1,10 @@
-# tallerFinal_pruebas
+# Taller final pruebas de software
+
+**Integrantes**
+* Monica Liliana Atehortua
+* Leury Wilmer Osorno Palacio
+
+## Atacar red wifi con Fern wifi Cracker
 
 1. Iniciamos abriendo una terminal en modo super usúario o usúario **root,** con el comado **sudo su.**
 
